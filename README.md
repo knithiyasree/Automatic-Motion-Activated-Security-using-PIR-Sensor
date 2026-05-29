@@ -22,7 +22,7 @@ In this experiment, the PIR sensor is connected to an Arduino Uno board. The VCC
 
   <img width="548" height="303" alt="image" src="https://github.com/user-attachments/assets/e91933e1-3a4a-4ab9-a5dc-7cef0edf42df" />
   
-## Procedure: //Modify based on your circuit
+## Procedure: 
 
 Step 1: Set Up the Tinkercad Environment
 1.	Log in to Tinkercad: Open https://www.tinkercad.com in your browser and log in to your account.
